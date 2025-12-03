@@ -1,0 +1,1 @@
+This repository presents a modular, extensible solution for optimizing carpool routes within Ann Arbor, MI. The system leverages classical and machine learning (ML) approaches to deliver cost-effective, time-efficient, and data-driven routes, with a clean separation of UI, routing logic, ML model, and visualization. Code structure facilitates maintainability and extensibility.
